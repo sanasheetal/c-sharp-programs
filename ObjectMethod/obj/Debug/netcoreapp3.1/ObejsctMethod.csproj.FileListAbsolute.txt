@@ -1,0 +1,13 @@
+C:\Users\Windows\c# programs\ObjectMethod\bin\Debug\netcoreapp3.1\ObejsctMethod.exe
+C:\Users\Windows\c# programs\ObjectMethod\bin\Debug\netcoreapp3.1\ObejsctMethod.deps.json
+C:\Users\Windows\c# programs\ObjectMethod\bin\Debug\netcoreapp3.1\ObejsctMethod.runtimeconfig.json
+C:\Users\Windows\c# programs\ObjectMethod\bin\Debug\netcoreapp3.1\ObejsctMethod.runtimeconfig.dev.json
+C:\Users\Windows\c# programs\ObjectMethod\bin\Debug\netcoreapp3.1\ObejsctMethod.dll
+C:\Users\Windows\c# programs\ObjectMethod\bin\Debug\netcoreapp3.1\ObejsctMethod.pdb
+C:\Users\Windows\c# programs\ObjectMethod\obj\Debug\netcoreapp3.1\ObejsctMethod.csprojAssemblyReference.cache
+C:\Users\Windows\c# programs\ObjectMethod\obj\Debug\netcoreapp3.1\ObejsctMethod.AssemblyInfoInputs.cache
+C:\Users\Windows\c# programs\ObjectMethod\obj\Debug\netcoreapp3.1\ObejsctMethod.AssemblyInfo.cs
+C:\Users\Windows\c# programs\ObjectMethod\obj\Debug\netcoreapp3.1\ObejsctMethod.csproj.CoreCompileInputs.cache
+C:\Users\Windows\c# programs\ObjectMethod\obj\Debug\netcoreapp3.1\ObejsctMethod.dll
+C:\Users\Windows\c# programs\ObjectMethod\obj\Debug\netcoreapp3.1\ObejsctMethod.pdb
+C:\Users\Windows\c# programs\ObjectMethod\obj\Debug\netcoreapp3.1\ObejsctMethod.genruntimeconfig.cache

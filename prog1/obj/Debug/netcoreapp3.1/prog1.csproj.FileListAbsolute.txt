@@ -1,0 +1,13 @@
+C:\Users\Windows\prog1\bin\Debug\netcoreapp3.1\prog1.exe
+C:\Users\Windows\prog1\bin\Debug\netcoreapp3.1\prog1.deps.json
+C:\Users\Windows\prog1\bin\Debug\netcoreapp3.1\prog1.runtimeconfig.json
+C:\Users\Windows\prog1\bin\Debug\netcoreapp3.1\prog1.runtimeconfig.dev.json
+C:\Users\Windows\prog1\bin\Debug\netcoreapp3.1\prog1.dll
+C:\Users\Windows\prog1\bin\Debug\netcoreapp3.1\prog1.pdb
+C:\Users\Windows\prog1\obj\Debug\netcoreapp3.1\prog1.csprojAssemblyReference.cache
+C:\Users\Windows\prog1\obj\Debug\netcoreapp3.1\prog1.AssemblyInfoInputs.cache
+C:\Users\Windows\prog1\obj\Debug\netcoreapp3.1\prog1.AssemblyInfo.cs
+C:\Users\Windows\prog1\obj\Debug\netcoreapp3.1\prog1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\prog1\obj\Debug\netcoreapp3.1\prog1.dll
+C:\Users\Windows\prog1\obj\Debug\netcoreapp3.1\prog1.pdb
+C:\Users\Windows\prog1\obj\Debug\netcoreapp3.1\prog1.genruntimeconfig.cache
